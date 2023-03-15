@@ -1,8 +1,8 @@
 ### Olá, João aqui! 
 
-- Aprendendo desenvolvimento web
-- Estudando python
-
+- Hi, I'm @joaomesquitalima 
+- I’m currently studying Software Engineering at Fucapi, in Brazil
+-  How to reach me: hit me up on Instagram (@joaomesquitalima)
 <div align="center">
   <a href="https://github.com/joaomesquitalima">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaomesquitalima&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -24,7 +24,7 @@
 <div> 
   
 <a href="https://instagram.com/joaomesquitalima" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:contatojoaomesquitalima6@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
   
  
  
