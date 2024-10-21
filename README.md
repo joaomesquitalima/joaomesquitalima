@@ -1,7 +1,7 @@
 <h3>Hi there, I'm João :) </h3>
 
 
-- 👩🏻‍💻 I have a good knowledge of Python
+- 👩🏻‍💻 I have a good knowledge of Python and C++
 - 📚 I’m currently studying Software Engineering at Fucapi, in Brazil
 -  How to reach me: hit me up on Instagram (@joaomesquitalima)
 <!-- <div align="center">
